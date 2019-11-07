@@ -38,3 +38,7 @@ Icon
 
 # Node
 node_modules
+
+# IDE
+*.iml
+.idea

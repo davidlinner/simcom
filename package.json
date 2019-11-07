@@ -30,7 +30,6 @@
   "dependencies": {
     "pdu": ">= 1.1.0",
     "q": ">=1.0.1",
-    "serialport": ">= 1.1.1",
-    "buffertools": "~2.1.2"
+    "serialport": ">= 1.1.1"
   }
 }
