@@ -7,6 +7,8 @@ This module was written with Raspberry Pi aspect in mind, but it basically shoul
 
 It has been tested on SIM800L module.
 
+**About this fork:** Dependency on deprecated package 'buffertools' was removed. Package was tested successfully with Windows 10 and SIM7000E module. 
+
 # Installation
 ```sh
 npm install simcom
